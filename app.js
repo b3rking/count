@@ -1,3 +1,7 @@
-const name = "b3rking"
-
-alert(name)
+class Date
+{
+  constructor() {
+    let timestamps = new Date()
+    this._day = timestamps.get
+  }
+}
